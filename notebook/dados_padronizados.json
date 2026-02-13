@@ -1,0 +1,1496 @@
+[
+    {
+        "Variavel":"Produção de origem animal (Mil litros)",
+        "Ano":"2019",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":15000,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Produção de origem animal (Mil litros)",
+        "Ano":"2020",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":14550,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Produção de origem animal (Mil litros)",
+        "Ano":"2021",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":16543,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Produção de origem animal (Mil litros)",
+        "Ano":"2022",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":17996,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Produção de origem animal (Mil litros)",
+        "Ano":"2023",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":18849,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Produção de origem animal (Mil litros)",
+        "Ano":"2024",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":20292,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção (Mil Reais)",
+        "Ano":"2019",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":16500,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção (Mil Reais)",
+        "Ano":"2020",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":20661,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção (Mil Reais)",
+        "Ano":"2021",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":30604,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção (Mil Reais)",
+        "Ano":"2022",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":35991,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção (Mil Reais)",
+        "Ano":"2023",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":39582,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção (Mil Reais)",
+        "Ano":"2024",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":43628,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção - percentual do total geral",
+        "Ano":"2019",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":38.8,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção - percentual do total geral",
+        "Ano":"2020",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":55.62,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção - percentual do total geral",
+        "Ano":"2021",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":59.66,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção - percentual do total geral",
+        "Ano":"2022",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":55.43,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção - percentual do total geral",
+        "Ano":"2023",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":48.08,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção - percentual do total geral",
+        "Ano":"2024",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":51.81,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Efetivo dos rebanhos (Cabeças)",
+        "Ano":"2019",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":40950,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Efetivo dos rebanhos (Cabeças)",
+        "Ano":"2020",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":41707,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Efetivo dos rebanhos (Cabeças)",
+        "Ano":"2021",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":42512,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Efetivo dos rebanhos (Cabeças)",
+        "Ano":"2022",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":46498,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Efetivo dos rebanhos (Cabeças)",
+        "Ano":"2023",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":48624,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Efetivo dos rebanhos (Cabeças)",
+        "Ano":"2024",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":50249,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":48.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":51.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":51.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":55.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":56.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":55.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":55.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":53.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":53.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":52.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":51.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":50.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":49.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":49.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":49.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":49.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":55.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":56.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":59.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":65.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":67.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":77.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":77.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":77.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":79.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":78.0
+    },
+    {
+        "Variavel":"Número de informantes (Unidades)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":78.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":79737.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":81059.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":81156.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":83994.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":82043.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":82253.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":80542.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":86526.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":80443.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":85510.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":86951.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":88147.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":91887.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":82889.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":90630.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":103858.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":105687.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":101459.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":103078.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":112592.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":110296.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":102264.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":98281.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":107881.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":119123.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":125934.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":132447.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":79733.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":81059.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":81155.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":83994.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":82045.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":82250.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":80541.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":86521.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":80443.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":85510.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":86951.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":88147.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":91887.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":81814.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":89467.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":102691.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":105686.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":101459.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":103069.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":112592.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":110296.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":102264.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":98281.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":107881.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":119123.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":125932.0
+    },
+    {
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":132447.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":48.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":51.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":51.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":55.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":56.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":55.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":55.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":53.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":53.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":52.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":51.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":50.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":49.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":49.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":49.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":48.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":55.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":56.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":59.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":65.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":67.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":77.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":77.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":77.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":79.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":78.0
+    },
+    {
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":78.0
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":1.18
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":1.17
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":1.21
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2019",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":1.28
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":1.28
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":1.31
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":1.52
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2020",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":1.77
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":1.88
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":1.88
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":2.02
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2021",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":2.06
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":1.92
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":2.02
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":2.24
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2022",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":2.22
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":2.31
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":2.3
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":2.24
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2023",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":2.22
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":2.14
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":2.17
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":2.33
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2024",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"4",
+        "Estado":"Ceará",
+        "Valores_Estado":2.48
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"1",
+        "Estado":"Ceará",
+        "Valores_Estado":2.42
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"2",
+        "Estado":"Ceará",
+        "Valores_Estado":2.4
+    },
+    {
+        "Variavel":"Preço médio (Reais por litro)",
+        "Ano":"2025",
+        "Municipio":"",
+        "Valores_Municipio":"",
+        "Trimestre":"3",
+        "Estado":"Ceará",
+        "Valores_Estado":2.33
+    },
+    {
+        "Variavel":"Número de estabelecimentos agropecuários que produziram leite de vaca (Unidades)",
+        "Ano":"2017",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":1246,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Vacas ordenhadas nos estabelecimentos agropecuários (Cabeças)",
+        "Ano":"2017",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":6281,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Quantidade produzida de leite de vaca (Mil litros)",
+        "Ano":"2017",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":12365.79,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da produção de leite de vaca (Mil Reais)",
+        "Ano":"2017",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":15354.11,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Número de estabelecimentos agropecuários que venderam leite de vaca cru (Unidades)",
+        "Ano":"2017",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":606,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Quantidade vendida de leite de vaca cru (Mil litros)",
+        "Ano":"2017",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":9043.37,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    },
+    {
+        "Variavel":"Valor da venda de leite de vaca cru (Mil Reais)",
+        "Ano":"2017",
+        "Municipio":"Quixadá (CE)",
+        "Valores_Municipio":10959.97,
+        "Trimestre":"",
+        "Estado":"",
+        "Valores_Estado":""
+    }
+]
