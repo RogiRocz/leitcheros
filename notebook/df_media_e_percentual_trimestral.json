@@ -1,0 +1,1217 @@
+[
+    {
+        "Ano":2019,
+        "Trimestre":1,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":48.0,
+        "Estado":"Ceará",
+        "Percentual":0.9365853659,
+        "Media_Anual":51.25
+    },
+    {
+        "Ano":2019,
+        "Trimestre":2,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":51.0,
+        "Estado":"Ceará",
+        "Percentual":0.9951219512,
+        "Media_Anual":51.25
+    },
+    {
+        "Ano":2019,
+        "Trimestre":3,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":51.0,
+        "Estado":"Ceará",
+        "Percentual":0.9951219512,
+        "Media_Anual":51.25
+    },
+    {
+        "Ano":2019,
+        "Trimestre":4,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":55.0,
+        "Estado":"Ceará",
+        "Percentual":1.0731707317,
+        "Media_Anual":51.25
+    },
+    {
+        "Ano":2020,
+        "Trimestre":1,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":56.0,
+        "Estado":"Ceará",
+        "Percentual":1.0228310502,
+        "Media_Anual":54.75
+    },
+    {
+        "Ano":2020,
+        "Trimestre":2,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":55.0,
+        "Estado":"Ceará",
+        "Percentual":1.00456621,
+        "Media_Anual":54.75
+    },
+    {
+        "Ano":2020,
+        "Trimestre":3,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":55.0,
+        "Estado":"Ceará",
+        "Percentual":1.00456621,
+        "Media_Anual":54.75
+    },
+    {
+        "Ano":2020,
+        "Trimestre":4,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":53.0,
+        "Estado":"Ceará",
+        "Percentual":0.9680365297,
+        "Media_Anual":54.75
+    },
+    {
+        "Ano":2021,
+        "Trimestre":1,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":53.0,
+        "Estado":"Ceará",
+        "Percentual":1.0291262136,
+        "Media_Anual":51.5
+    },
+    {
+        "Ano":2021,
+        "Trimestre":2,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":52.0,
+        "Estado":"Ceará",
+        "Percentual":1.0097087379,
+        "Media_Anual":51.5
+    },
+    {
+        "Ano":2021,
+        "Trimestre":3,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":51.0,
+        "Estado":"Ceará",
+        "Percentual":0.9902912621,
+        "Media_Anual":51.5
+    },
+    {
+        "Ano":2021,
+        "Trimestre":4,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":50.0,
+        "Estado":"Ceará",
+        "Percentual":0.9708737864,
+        "Media_Anual":51.5
+    },
+    {
+        "Ano":2022,
+        "Trimestre":1,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":49.0,
+        "Estado":"Ceará",
+        "Percentual":1.0,
+        "Media_Anual":49.0
+    },
+    {
+        "Ano":2022,
+        "Trimestre":2,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":49.0,
+        "Estado":"Ceará",
+        "Percentual":1.0,
+        "Media_Anual":49.0
+    },
+    {
+        "Ano":2022,
+        "Trimestre":3,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":49.0,
+        "Estado":"Ceará",
+        "Percentual":1.0,
+        "Media_Anual":49.0
+    },
+    {
+        "Ano":2022,
+        "Trimestre":4,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":49.0,
+        "Estado":"Ceará",
+        "Percentual":1.0,
+        "Media_Anual":49.0
+    },
+    {
+        "Ano":2023,
+        "Trimestre":1,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":55.0,
+        "Estado":"Ceará",
+        "Percentual":0.9361702128,
+        "Media_Anual":58.75
+    },
+    {
+        "Ano":2023,
+        "Trimestre":2,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":56.0,
+        "Estado":"Ceará",
+        "Percentual":0.9531914894,
+        "Media_Anual":58.75
+    },
+    {
+        "Ano":2023,
+        "Trimestre":3,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":59.0,
+        "Estado":"Ceará",
+        "Percentual":1.0042553191,
+        "Media_Anual":58.75
+    },
+    {
+        "Ano":2023,
+        "Trimestre":4,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":65.0,
+        "Estado":"Ceará",
+        "Percentual":1.1063829787,
+        "Media_Anual":58.75
+    },
+    {
+        "Ano":2024,
+        "Trimestre":1,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":67.0,
+        "Estado":"Ceará",
+        "Percentual":0.8993288591,
+        "Media_Anual":74.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":2,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":77.0,
+        "Estado":"Ceará",
+        "Percentual":1.033557047,
+        "Media_Anual":74.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":3,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":77.0,
+        "Estado":"Ceará",
+        "Percentual":1.033557047,
+        "Media_Anual":74.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":4,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":77.0,
+        "Estado":"Ceará",
+        "Percentual":1.033557047,
+        "Media_Anual":74.5
+    },
+    {
+        "Ano":2025,
+        "Trimestre":1,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":79.0,
+        "Estado":"Ceará",
+        "Percentual":1.0085106383,
+        "Media_Anual":78.3333333333
+    },
+    {
+        "Ano":2025,
+        "Trimestre":2,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":78.0,
+        "Estado":"Ceará",
+        "Percentual":0.9957446809,
+        "Media_Anual":78.3333333333
+    },
+    {
+        "Ano":2025,
+        "Trimestre":3,
+        "Variavel":"Número de informantes (Unidades)",
+        "Valores_Estado":78.0,
+        "Estado":"Ceará",
+        "Percentual":0.9957446809,
+        "Media_Anual":78.3333333333
+    },
+    {
+        "Ano":2019,
+        "Trimestre":1,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":48.0,
+        "Estado":"Ceará",
+        "Percentual":0.9365853659,
+        "Media_Anual":51.25
+    },
+    {
+        "Ano":2019,
+        "Trimestre":2,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":51.0,
+        "Estado":"Ceará",
+        "Percentual":0.9951219512,
+        "Media_Anual":51.25
+    },
+    {
+        "Ano":2019,
+        "Trimestre":3,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":51.0,
+        "Estado":"Ceará",
+        "Percentual":0.9951219512,
+        "Media_Anual":51.25
+    },
+    {
+        "Ano":2019,
+        "Trimestre":4,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":55.0,
+        "Estado":"Ceará",
+        "Percentual":1.0731707317,
+        "Media_Anual":51.25
+    },
+    {
+        "Ano":2020,
+        "Trimestre":1,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":56.0,
+        "Estado":"Ceará",
+        "Percentual":1.0228310502,
+        "Media_Anual":54.75
+    },
+    {
+        "Ano":2020,
+        "Trimestre":2,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":55.0,
+        "Estado":"Ceará",
+        "Percentual":1.00456621,
+        "Media_Anual":54.75
+    },
+    {
+        "Ano":2020,
+        "Trimestre":3,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":55.0,
+        "Estado":"Ceará",
+        "Percentual":1.00456621,
+        "Media_Anual":54.75
+    },
+    {
+        "Ano":2020,
+        "Trimestre":4,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":53.0,
+        "Estado":"Ceará",
+        "Percentual":0.9680365297,
+        "Media_Anual":54.75
+    },
+    {
+        "Ano":2021,
+        "Trimestre":1,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":53.0,
+        "Estado":"Ceará",
+        "Percentual":1.0291262136,
+        "Media_Anual":51.5
+    },
+    {
+        "Ano":2021,
+        "Trimestre":2,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":52.0,
+        "Estado":"Ceará",
+        "Percentual":1.0097087379,
+        "Media_Anual":51.5
+    },
+    {
+        "Ano":2021,
+        "Trimestre":3,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":51.0,
+        "Estado":"Ceará",
+        "Percentual":0.9902912621,
+        "Media_Anual":51.5
+    },
+    {
+        "Ano":2021,
+        "Trimestre":4,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":50.0,
+        "Estado":"Ceará",
+        "Percentual":0.9708737864,
+        "Media_Anual":51.5
+    },
+    {
+        "Ano":2022,
+        "Trimestre":1,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":49.0,
+        "Estado":"Ceará",
+        "Percentual":1.0051282051,
+        "Media_Anual":48.75
+    },
+    {
+        "Ano":2022,
+        "Trimestre":2,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":49.0,
+        "Estado":"Ceará",
+        "Percentual":1.0051282051,
+        "Media_Anual":48.75
+    },
+    {
+        "Ano":2022,
+        "Trimestre":3,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":49.0,
+        "Estado":"Ceará",
+        "Percentual":1.0051282051,
+        "Media_Anual":48.75
+    },
+    {
+        "Ano":2022,
+        "Trimestre":4,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":48.0,
+        "Estado":"Ceará",
+        "Percentual":0.9846153846,
+        "Media_Anual":48.75
+    },
+    {
+        "Ano":2023,
+        "Trimestre":1,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":55.0,
+        "Estado":"Ceará",
+        "Percentual":0.9361702128,
+        "Media_Anual":58.75
+    },
+    {
+        "Ano":2023,
+        "Trimestre":2,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":56.0,
+        "Estado":"Ceará",
+        "Percentual":0.9531914894,
+        "Media_Anual":58.75
+    },
+    {
+        "Ano":2023,
+        "Trimestre":3,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":59.0,
+        "Estado":"Ceará",
+        "Percentual":1.0042553191,
+        "Media_Anual":58.75
+    },
+    {
+        "Ano":2023,
+        "Trimestre":4,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":65.0,
+        "Estado":"Ceará",
+        "Percentual":1.1063829787,
+        "Media_Anual":58.75
+    },
+    {
+        "Ano":2024,
+        "Trimestre":1,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":67.0,
+        "Estado":"Ceará",
+        "Percentual":0.8993288591,
+        "Media_Anual":74.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":2,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":77.0,
+        "Estado":"Ceará",
+        "Percentual":1.033557047,
+        "Media_Anual":74.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":3,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":77.0,
+        "Estado":"Ceará",
+        "Percentual":1.033557047,
+        "Media_Anual":74.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":4,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":77.0,
+        "Estado":"Ceará",
+        "Percentual":1.033557047,
+        "Media_Anual":74.5
+    },
+    {
+        "Ano":2025,
+        "Trimestre":1,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":79.0,
+        "Estado":"Ceará",
+        "Percentual":1.0085106383,
+        "Media_Anual":78.3333333333
+    },
+    {
+        "Ano":2025,
+        "Trimestre":2,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":78.0,
+        "Estado":"Ceará",
+        "Percentual":0.9957446809,
+        "Media_Anual":78.3333333333
+    },
+    {
+        "Ano":2025,
+        "Trimestre":3,
+        "Variavel":"Número de informantes do preço do leite (Unidades)",
+        "Valores_Estado":78.0,
+        "Estado":"Ceará",
+        "Percentual":0.9957446809,
+        "Media_Anual":78.3333333333
+    },
+    {
+        "Ano":2019,
+        "Trimestre":1,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.18,
+        "Estado":"Ceará",
+        "Percentual":0.9752066116,
+        "Media_Anual":1.21
+    },
+    {
+        "Ano":2019,
+        "Trimestre":2,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.17,
+        "Estado":"Ceará",
+        "Percentual":0.9669421488,
+        "Media_Anual":1.21
+    },
+    {
+        "Ano":2019,
+        "Trimestre":3,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.21,
+        "Estado":"Ceará",
+        "Percentual":1.0,
+        "Media_Anual":1.21
+    },
+    {
+        "Ano":2019,
+        "Trimestre":4,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.28,
+        "Estado":"Ceará",
+        "Percentual":1.0578512397,
+        "Media_Anual":1.21
+    },
+    {
+        "Ano":2020,
+        "Trimestre":1,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.28,
+        "Estado":"Ceará",
+        "Percentual":0.8707482993,
+        "Media_Anual":1.47
+    },
+    {
+        "Ano":2020,
+        "Trimestre":2,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.31,
+        "Estado":"Ceará",
+        "Percentual":0.8911564626,
+        "Media_Anual":1.47
+    },
+    {
+        "Ano":2020,
+        "Trimestre":3,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.52,
+        "Estado":"Ceará",
+        "Percentual":1.0340136054,
+        "Media_Anual":1.47
+    },
+    {
+        "Ano":2020,
+        "Trimestre":4,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.77,
+        "Estado":"Ceará",
+        "Percentual":1.2040816327,
+        "Media_Anual":1.47
+    },
+    {
+        "Ano":2021,
+        "Trimestre":1,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.88,
+        "Estado":"Ceará",
+        "Percentual":0.9591836735,
+        "Media_Anual":1.96
+    },
+    {
+        "Ano":2021,
+        "Trimestre":2,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.88,
+        "Estado":"Ceará",
+        "Percentual":0.9591836735,
+        "Media_Anual":1.96
+    },
+    {
+        "Ano":2021,
+        "Trimestre":3,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.02,
+        "Estado":"Ceará",
+        "Percentual":1.0306122449,
+        "Media_Anual":1.96
+    },
+    {
+        "Ano":2021,
+        "Trimestre":4,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.06,
+        "Estado":"Ceará",
+        "Percentual":1.0510204082,
+        "Media_Anual":1.96
+    },
+    {
+        "Ano":2022,
+        "Trimestre":1,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":1.92,
+        "Estado":"Ceará",
+        "Percentual":0.9142857143,
+        "Media_Anual":2.1
+    },
+    {
+        "Ano":2022,
+        "Trimestre":2,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.02,
+        "Estado":"Ceará",
+        "Percentual":0.9619047619,
+        "Media_Anual":2.1
+    },
+    {
+        "Ano":2022,
+        "Trimestre":3,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.24,
+        "Estado":"Ceará",
+        "Percentual":1.0666666667,
+        "Media_Anual":2.1
+    },
+    {
+        "Ano":2022,
+        "Trimestre":4,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.22,
+        "Estado":"Ceará",
+        "Percentual":1.0571428571,
+        "Media_Anual":2.1
+    },
+    {
+        "Ano":2023,
+        "Trimestre":1,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.31,
+        "Estado":"Ceará",
+        "Percentual":1.0187431092,
+        "Media_Anual":2.2675
+    },
+    {
+        "Ano":2023,
+        "Trimestre":2,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.3,
+        "Estado":"Ceará",
+        "Percentual":1.0143329658,
+        "Media_Anual":2.2675
+    },
+    {
+        "Ano":2023,
+        "Trimestre":3,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.24,
+        "Estado":"Ceará",
+        "Percentual":0.9878721058,
+        "Media_Anual":2.2675
+    },
+    {
+        "Ano":2023,
+        "Trimestre":4,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.22,
+        "Estado":"Ceará",
+        "Percentual":0.9790518192,
+        "Media_Anual":2.2675
+    },
+    {
+        "Ano":2024,
+        "Trimestre":1,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.14,
+        "Estado":"Ceará",
+        "Percentual":0.9385964912,
+        "Media_Anual":2.28
+    },
+    {
+        "Ano":2024,
+        "Trimestre":2,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.17,
+        "Estado":"Ceará",
+        "Percentual":0.951754386,
+        "Media_Anual":2.28
+    },
+    {
+        "Ano":2024,
+        "Trimestre":3,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.33,
+        "Estado":"Ceará",
+        "Percentual":1.0219298246,
+        "Media_Anual":2.28
+    },
+    {
+        "Ano":2024,
+        "Trimestre":4,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.48,
+        "Estado":"Ceará",
+        "Percentual":1.0877192982,
+        "Media_Anual":2.28
+    },
+    {
+        "Ano":2025,
+        "Trimestre":1,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.42,
+        "Estado":"Ceará",
+        "Percentual":1.0153846154,
+        "Media_Anual":2.3833333333
+    },
+    {
+        "Ano":2025,
+        "Trimestre":2,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.4,
+        "Estado":"Ceará",
+        "Percentual":1.006993007,
+        "Media_Anual":2.3833333333
+    },
+    {
+        "Ano":2025,
+        "Trimestre":3,
+        "Variavel":"Preço médio (Reais por litro)",
+        "Valores_Estado":2.33,
+        "Estado":"Ceará",
+        "Percentual":0.9776223776,
+        "Media_Anual":2.3833333333
+    },
+    {
+        "Ano":2019,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":79737.0,
+        "Estado":"Ceará",
+        "Percentual":0.978530186,
+        "Media_Anual":81486.5
+    },
+    {
+        "Ano":2019,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":81059.0,
+        "Estado":"Ceará",
+        "Percentual":0.9947537322,
+        "Media_Anual":81486.5
+    },
+    {
+        "Ano":2019,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":81156.0,
+        "Estado":"Ceará",
+        "Percentual":0.9959441134,
+        "Media_Anual":81486.5
+    },
+    {
+        "Ano":2019,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":83994.0,
+        "Estado":"Ceará",
+        "Percentual":1.0307719684,
+        "Media_Anual":81486.5
+    },
+    {
+        "Ano":2020,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":82043.0,
+        "Estado":"Ceará",
+        "Percentual":0.9903670888,
+        "Media_Anual":82841.0
+    },
+    {
+        "Ano":2020,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":82253.0,
+        "Estado":"Ceará",
+        "Percentual":0.9929020654,
+        "Media_Anual":82841.0
+    },
+    {
+        "Ano":2020,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":80542.0,
+        "Estado":"Ceará",
+        "Percentual":0.9722480414,
+        "Media_Anual":82841.0
+    },
+    {
+        "Ano":2020,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":86526.0,
+        "Estado":"Ceará",
+        "Percentual":1.0444828044,
+        "Media_Anual":82841.0
+    },
+    {
+        "Ano":2021,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":80443.0,
+        "Estado":"Ceará",
+        "Percentual":0.9434717975,
+        "Media_Anual":85262.75
+    },
+    {
+        "Ano":2021,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":85510.0,
+        "Estado":"Ceará",
+        "Percentual":1.0028998596,
+        "Media_Anual":85262.75
+    },
+    {
+        "Ano":2021,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":86951.0,
+        "Estado":"Ceará",
+        "Percentual":1.0198005577,
+        "Media_Anual":85262.75
+    },
+    {
+        "Ano":2021,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":88147.0,
+        "Estado":"Ceará",
+        "Percentual":1.0338277853,
+        "Media_Anual":85262.75
+    },
+    {
+        "Ano":2022,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":91887.0,
+        "Estado":"Ceará",
+        "Percentual":0.9953529182,
+        "Media_Anual":92316.0
+    },
+    {
+        "Ano":2022,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":82889.0,
+        "Estado":"Ceará",
+        "Percentual":0.8978833572,
+        "Media_Anual":92316.0
+    },
+    {
+        "Ano":2022,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":90630.0,
+        "Estado":"Ceará",
+        "Percentual":0.9817366437,
+        "Media_Anual":92316.0
+    },
+    {
+        "Ano":2022,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":103858.0,
+        "Estado":"Ceará",
+        "Percentual":1.1250270809,
+        "Media_Anual":92316.0
+    },
+    {
+        "Ano":2023,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":105687.0,
+        "Estado":"Ceará",
+        "Percentual":0.9998391735,
+        "Media_Anual":105704.0
+    },
+    {
+        "Ano":2023,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":101459.0,
+        "Estado":"Ceará",
+        "Percentual":0.9598406872,
+        "Media_Anual":105704.0
+    },
+    {
+        "Ano":2023,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":103078.0,
+        "Estado":"Ceará",
+        "Percentual":0.9751570423,
+        "Media_Anual":105704.0
+    },
+    {
+        "Ano":2023,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":112592.0,
+        "Estado":"Ceará",
+        "Percentual":1.0651630969,
+        "Media_Anual":105704.0
+    },
+    {
+        "Ano":2024,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":110296.0,
+        "Estado":"Ceará",
+        "Percentual":1.053644184,
+        "Media_Anual":104680.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":102264.0,
+        "Estado":"Ceará",
+        "Percentual":0.9769154714,
+        "Media_Anual":104680.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":98281.0,
+        "Estado":"Ceará",
+        "Percentual":0.93886636,
+        "Media_Anual":104680.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":107881.0,
+        "Estado":"Ceará",
+        "Percentual":1.0305739846,
+        "Media_Anual":104680.5
+    },
+    {
+        "Ano":2025,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":119123.0,
+        "Estado":"Ceará",
+        "Percentual":0.9466628168,
+        "Media_Anual":125834.6666666667
+    },
+    {
+        "Ano":2025,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":125934.0,
+        "Estado":"Ceará",
+        "Percentual":1.0007893956,
+        "Media_Anual":125834.6666666667
+    },
+    {
+        "Ano":2025,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, adquirido (Mil litros)",
+        "Valores_Estado":132447.0,
+        "Estado":"Ceará",
+        "Percentual":1.0525477876,
+        "Media_Anual":125834.6666666667
+    },
+    {
+        "Ano":2019,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":79733.0,
+        "Estado":"Ceará",
+        "Percentual":0.9784961082,
+        "Media_Anual":81485.25
+    },
+    {
+        "Ano":2019,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":81059.0,
+        "Estado":"Ceará",
+        "Percentual":0.9947689919,
+        "Media_Anual":81485.25
+    },
+    {
+        "Ano":2019,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":81155.0,
+        "Estado":"Ceará",
+        "Percentual":0.9959471193,
+        "Media_Anual":81485.25
+    },
+    {
+        "Ano":2019,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":83994.0,
+        "Estado":"Ceará",
+        "Percentual":1.0307877806,
+        "Media_Anual":81485.25
+    },
+    {
+        "Ano":2020,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":82045.0,
+        "Estado":"Ceará",
+        "Percentual":0.9904121537,
+        "Media_Anual":82839.25
+    },
+    {
+        "Ano":2020,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":82250.0,
+        "Estado":"Ceará",
+        "Percentual":0.992886826,
+        "Media_Anual":82839.25
+    },
+    {
+        "Ano":2020,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":80541.0,
+        "Estado":"Ceará",
+        "Percentual":0.9722565088,
+        "Media_Anual":82839.25
+    },
+    {
+        "Ano":2020,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":86521.0,
+        "Estado":"Ceará",
+        "Percentual":1.0444445115,
+        "Media_Anual":82839.25
+    },
+    {
+        "Ano":2021,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":80443.0,
+        "Estado":"Ceará",
+        "Percentual":0.9434717975,
+        "Media_Anual":85262.75
+    },
+    {
+        "Ano":2021,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":85510.0,
+        "Estado":"Ceará",
+        "Percentual":1.0028998596,
+        "Media_Anual":85262.75
+    },
+    {
+        "Ano":2021,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":86951.0,
+        "Estado":"Ceará",
+        "Percentual":1.0198005577,
+        "Media_Anual":85262.75
+    },
+    {
+        "Ano":2021,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":88147.0,
+        "Estado":"Ceará",
+        "Percentual":1.0338277853,
+        "Media_Anual":85262.75
+    },
+    {
+        "Ano":2022,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":91887.0,
+        "Estado":"Ceará",
+        "Percentual":1.0046165326,
+        "Media_Anual":91464.75
+    },
+    {
+        "Ano":2022,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":81814.0,
+        "Estado":"Ceará",
+        "Percentual":0.8944866738,
+        "Media_Anual":91464.75
+    },
+    {
+        "Ano":2022,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":89467.0,
+        "Estado":"Ceará",
+        "Percentual":0.9781582522,
+        "Media_Anual":91464.75
+    },
+    {
+        "Ano":2022,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":102691.0,
+        "Estado":"Ceará",
+        "Percentual":1.1227385414,
+        "Media_Anual":91464.75
+    },
+    {
+        "Ano":2023,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":105686.0,
+        "Estado":"Ceará",
+        "Percentual":0.9998533606,
+        "Media_Anual":105701.5
+    },
+    {
+        "Ano":2023,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":101459.0,
+        "Estado":"Ceará",
+        "Percentual":0.9598633889,
+        "Media_Anual":105701.5
+    },
+    {
+        "Ano":2023,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":103069.0,
+        "Estado":"Ceará",
+        "Percentual":0.9750949608,
+        "Media_Anual":105701.5
+    },
+    {
+        "Ano":2023,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":112592.0,
+        "Estado":"Ceará",
+        "Percentual":1.0651882897,
+        "Media_Anual":105701.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":110296.0,
+        "Estado":"Ceará",
+        "Percentual":1.053644184,
+        "Media_Anual":104680.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":102264.0,
+        "Estado":"Ceará",
+        "Percentual":0.9769154714,
+        "Media_Anual":104680.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":98281.0,
+        "Estado":"Ceará",
+        "Percentual":0.93886636,
+        "Media_Anual":104680.5
+    },
+    {
+        "Ano":2024,
+        "Trimestre":4,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":107881.0,
+        "Estado":"Ceará",
+        "Percentual":1.0305739846,
+        "Media_Anual":104680.5
+    },
+    {
+        "Ano":2025,
+        "Trimestre":1,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":119123.0,
+        "Estado":"Ceará",
+        "Percentual":0.9466678322,
+        "Media_Anual":125834.0
+    },
+    {
+        "Ano":2025,
+        "Trimestre":2,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":125932.0,
+        "Estado":"Ceará",
+        "Percentual":1.0007788038,
+        "Media_Anual":125834.0
+    },
+    {
+        "Ano":2025,
+        "Trimestre":3,
+        "Variavel":"Quantidade de leite cru, resfriado ou não, industrializado (Mil litros)",
+        "Valores_Estado":132447.0,
+        "Estado":"Ceará",
+        "Percentual":1.052553364,
+        "Media_Anual":125834.0
+    }
+]

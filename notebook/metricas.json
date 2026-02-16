@@ -1,0 +1,50 @@
+[
+    {
+        "Métrica":"CAGR do Rebanho (2019-2024) (%\/ano)",
+        "Valor":0.0417768524
+    },
+    {
+        "Métrica":"Rebanho Estimado 2017 (cabeças)",
+        "Valor":37731.5372249005
+    },
+    {
+        "Métrica":"Produtividade por Cabeça (2017) (mil litros\/cabeça\/ano)",
+        "Valor":0.3277308827
+    },
+    {
+        "Métrica":"Estabelecimentos sem Venda Crua (unidades)",
+        "Valor":640.0
+    },
+    {
+        "Métrica":"Porcentagem de Estabelecimentos sem Venda Crua (%)",
+        "Valor":0.5136436597
+    },
+    {
+        "Métrica":"Produção Média p\/ Estabelecimento (mil litros\/ano)",
+        "Valor":9.9243900482
+    },
+    {
+        "Métrica":"Venda Média p\/ Estabelecimento (mil litros\/ano)",
+        "Valor":14.9230528053
+    },
+    {
+        "Métrica":"Volume Processado Localmente (mil litros)",
+        "Valor":3322.42
+    },
+    {
+        "Métrica":"Taxa de Escoamento (Venda Crua) (%)",
+        "Valor":0.7313216543
+    },
+    {
+        "Métrica":"Preço Médio de Venda (Spot) (R$\/Litro)",
+        "Valor":1.2119342679
+    },
+    {
+        "Métrica":"Valor Médio da Produção Total (R$\/Litro)",
+        "Valor":1.2416602579
+    },
+    {
+        "Métrica":"Diferença Valor (Agregado Local) (mil reais)",
+        "Valor":4394.14
+    }
+]
