@@ -1,0 +1,66 @@
+[
+    {
+        "Metrica":"CAGR do rebanho (2017-2024) (%)",
+        "Valor":0.0489
+    },
+    {
+        "Metrica":"Número de Estabelecimentos que não venderam leite (Unidades)",
+        "Valor":640.0
+    },
+    {
+        "Metrica":"Porcentagem de Estabelecimentos que não venderam leite (%)",
+        "Valor":0.5136
+    },
+    {
+        "Metrica":"Produtividade média de leite por estabelecimento (mil litros\/estabelecimento)",
+        "Valor":9.9244
+    },
+    {
+        "Metrica":"Produtividade média do rebanho (mil litros\/cabeça)",
+        "Valor":0.3438
+    },
+    {
+        "Metrica":"Produtividade média do rebanho por estabelecimento (mil litros\/cabeça\/estabelecimento)",
+        "Valor":428.3269
+    },
+    {
+        "Metrica":"Média do rebanho por estabelecimento (cabeças\/estabelecimento)",
+        "Valor":28.87
+    },
+    {
+        "Metrica":"Média de produção por estabelecimento (mil litros\/estabelecimento)",
+        "Valor":9.9244
+    },
+    {
+        "Metrica":"Média de venda por estabelecimento (mil litros\/estabelecimento)",
+        "Valor":14.9231
+    },
+    {
+        "Metrica":"Taxa de escoamento da venda de leite (%)",
+        "Valor":0.7313
+    },
+    {
+        "Metrica":"Valor do escoamento da venda de leite (mil litros)",
+        "Valor":3322.42
+    },
+    {
+        "Metrica":"Porcentagem de lucro da venda de leite (%)",
+        "Valor":0.7138
+    },
+    {
+        "Metrica":"Preço médio de venda de leite (R$\/litro)",
+        "Valor":1.2119
+    },
+    {
+        "Metrica":"Valor médio da produção de leite (R$\/litro)",
+        "Valor":1.2417
+    },
+    {
+        "Metrica":"CAGR de produção (2021)",
+        "Valor":0.0705
+    },
+    {
+        "Metrica":"CAGR de preço médio (2021)",
+        "Valor":0.0514
+    }
+]

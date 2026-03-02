@@ -1,0 +1,66 @@
+[
+    {
+        "Ano":2025,
+        "Trimestre":"1",
+        "Produção_Estimada":5358.959,
+        "Preço_Estimado":2.1611,
+        "Faturamento_Estimado":11581.0364,
+        "Periodo":"2025 - T1"
+    },
+    {
+        "Ano":2025,
+        "Trimestre":"2",
+        "Produção_Estimada":5295.4356,
+        "Preço_Estimado":2.1805,
+        "Faturamento_Estimado":11546.5635,
+        "Periodo":"2025 - T2"
+    },
+    {
+        "Ano":2025,
+        "Trimestre":"3",
+        "Produção_Estimada":5381.0161,
+        "Preço_Estimado":2.2988,
+        "Faturamento_Estimado":12369.9355,
+        "Periodo":"2025 - T3"
+    },
+    {
+        "Ano":2025,
+        "Trimestre":"4",
+        "Produção_Estimada":5728.9677,
+        "Preço_Estimado":2.4251,
+        "Faturamento_Estimado":13893.0993,
+        "Periodo":"2025 - T4"
+    },
+    {
+        "Ano":2026,
+        "Trimestre":"1",
+        "Produção_Estimada":5736.5458,
+        "Preço_Estimado":2.2721,
+        "Faturamento_Estimado":13033.9589,
+        "Periodo":"2026 - T1"
+    },
+    {
+        "Ano":2026,
+        "Trimestre":"2",
+        "Produção_Estimada":5668.5467,
+        "Preço_Estimado":2.2925,
+        "Faturamento_Estimado":12995.1612,
+        "Periodo":"2026 - T2"
+    },
+    {
+        "Ano":2026,
+        "Trimestre":"3",
+        "Produção_Estimada":5760.1571,
+        "Preço_Estimado":2.4169,
+        "Faturamento_Estimado":13921.831,
+        "Periodo":"2026 - T3"
+    },
+    {
+        "Ano":2026,
+        "Trimestre":"4",
+        "Produção_Estimada":6132.625,
+        "Preço_Estimado":2.5497,
+        "Faturamento_Estimado":15636.0865,
+        "Periodo":"2026 - T4"
+    }
+]
